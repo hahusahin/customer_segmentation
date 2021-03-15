@@ -1,7 +1,7 @@
 # Customer Segmentation
 
 ### Goal
-Using a bank's extensive data on it's customers for the past 6 months, my goal is to launch a targeted ad campaign by dividing the customers into distinctive groups.
+Using a bank's extensive data on it's customers, my goal is to launch a targeted ad campaign by dividing the customers into distinctive groups.
 
 ### Data Description
 * The dataset has a total of 8950 observations with 18 features.
